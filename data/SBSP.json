@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-22T19:04:37.195132+00:00",
+  "updated_at": "2026-10-22T23:54:26.975819+00:00",
   "data_referencia": "2026-10-22",
   "airport_icao": "SBSP",
   "airport_name": "Sao Paulo / Congonhas",
   "airport_info": {
-    "sg_aerodromo_icao": "SBGW",
-    "sg_aerodromo_iata": "GUJ",
-    "descricao": "GUARATINGUETÁ - GUARATINGUETÁ - SP - BRASIL"
+    "sg_aerodromo_icao": "SBSP",
+    "sg_aerodromo_iata": "CGH",
+    "descricao": "CONGONHAS - SÃO PAULO - SP - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
